@@ -264406,4 +264406,9 @@ A helpful guide for parents and teachers, this program features essential topics
     <episode-num system="onscreen">E325</episode-num>
     <premiere lang="es"/>
   </programme>
+channel_id=575519&date=20261119&timezone=None">
+<channel id="575519">
+<display-name lang="Philippines">VIVA Cinema</display-name>
+<icon src=""/>
+</channel>
 </tv>
